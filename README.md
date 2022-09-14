@@ -4,6 +4,6 @@ Made By:- Sahil
 
 Bank Codes Start from:- 
 
-Account Number - 2010990600
-Customer ID - 1
+Account Number - 2010990600,
+Customer ID - 1,
 Transaction ID - 10024651
